@@ -1,4 +1,4 @@
-# VoiceShield AI (Real-Time Call Fraud Detection & Protection System)
+# VoiceShield AI - (Real-Time Call Fraud Detection & Protection System)
 
 Voice-based scams are rapidly increasing, with fraudsters exploiting live phone calls to deceive users—especially elderly individuals, digitally unaware users, and first-time internet adopters. These scams rely on impersonation, emotional manipulation, urgency tactics, and psychological pressure, making them extremely difficult to detect in real time.
 
