@@ -176,7 +176,3 @@ The system delivers **strong social impact**, **real-world scalability**, and a 
 
 ---
 
-## Contributing
-
-Contributions are welcome and appreciated!  
-If you have ideas to improve VoiceShield AI, fix bugs, or enhance features, feel free to fork the repo and submit a pull request.
